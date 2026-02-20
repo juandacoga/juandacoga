@@ -32,13 +32,6 @@ Soy un desarrollador apasionado con experiencia en **PHP** y **Laravel**, especi
 
 💼 **LinkedIn**: [Juan David Correa García](https://www.linkedin.com/in/juan-david-correa-garcía-50a13a1ab)
 
----
-
-## 🌟 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juandacoga&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juandacoga&layout=compact&theme=radical)
 
 ---
 
