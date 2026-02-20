@@ -1,5 +1,7 @@
 # 👋 ¡Hola! Soy Juan David Correa García
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/juandacoga/juandacoga)
+
 ## 🚀 Sobre mí
 
 Soy un desarrollador apasionado con experiencia en **PHP** y **Laravel**, especializado en crear soluciones web robustas y escalables. Me encanta trabajar en equipo y estoy constantemente aprendiendo nuevas tecnologías para mejorar mis habilidades.
