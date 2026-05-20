@@ -30,7 +30,7 @@ Soy un desarrollador apasionado con experiencia en **PHP** y **Laravel**, especi
 
 📧 **Email**: [juandacoga12@gmail.com](mailto:juandacoga12@gmail.com)
 
-💼 **LinkedIn**: [Juan David Correa García](https://www.linkedin.com/in/juan-david-correa-garcía-50a13a1ab)
+💼 **LinkedIn**: [Juan David Correa García](https://www.linkedin.com/in/juan-david-correa-garcía)
 
 
 ---
